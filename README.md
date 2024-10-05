@@ -5,9 +5,9 @@ Atualmente, meu foco principal de estudo é Java, mas estou sempre buscando apre
 
 # 🔧 Tecnologias e Ferramentas
 
-- 🌐 Linguagens: Java
+- 🌐 Linguagens: Java, Python
 - 🛠️ Frameworks: Spring Boot
-- 📚 Banco de Dados: MySQL
+- 📚 Banco de Dados: MySQL, H2 e MongoDB
 - 🧰 Outras Ferramentas: Git, VSCode, Eclipse IDE
 
 # 📚 Estudos e Interesses
