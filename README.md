@@ -7,20 +7,8 @@ Atualmente, meu foco principal de estudo é Java, mas estou sempre buscando apre
 
 - 🌐 Linguagens: Java, Python
 - 🛠️ Frameworks: Spring Boot
-- 📚 Banco de Dados: MySQL, H2 e MongoDB
+- 📚 Banco de Dados: MySQL, H2, MongoDB, Postgree
 - 🧰 Outras Ferramentas: Git, VSCode, Eclipse IDE
-
-# 📚 Estudos e Interesses
-
-Estou constantemente buscando me desenvolver profissionalmente e academicamente. Atualmente, estou focada em:
-
-- Dominar conceitos avançados da linguagem Java.
-- Explorar frameworks e bibliotecas para desenvolvimento Java, como Spring Boot.
-- Aprimorar minhas habilidades em desenvolvimento de aplicações web e serviços RESTful.
-
-# 🌱 Próximos Passos
-
-Estou sempre aberta a novas oportunidades de aprendizado e projetos interessantes. Meu objetivo é me tornar uma desenvolvedora back-end.
 
 # 📫 Contato
 
